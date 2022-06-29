@@ -134,13 +134,14 @@ li {
 .contact {
     display: inline-block;
     margin-top: 1.5rem;
+    margin-left: 0.5em;
     vertical-align: top;
 }
 
 .contact2 {
     display: inline-block;
     margin-top: 1.5rem;
-    margin-left: 1.25em;
+    margin-left: 0.5em;
     vertical-align: top;
 }
 
@@ -148,7 +149,7 @@ li {
     background-color:rgba(255, 250, 240, 0.125);
     /* border-radius: 50px; */
     /* box-shadow: 0 0rem 0.7rem rgba(255, 255, 255, 0.484); */
-    color: #ebd272;
+    color: #ffffff;
     display: inline-block;
     font-size: 0.8rem;
     line-height: 1;
