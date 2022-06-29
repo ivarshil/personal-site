@@ -116,7 +116,7 @@ li {
 }
 
 .hr {
-    background-color: #f90606;
+    background-color: #ff0000;
     font-family: "Montserrat", "Quicksand", sans-serif;
     border: none;
     content: "";
@@ -137,16 +137,23 @@ li {
     vertical-align: top;
 }
 
-.button {
-    background-color: transparent ;
-    border-radius: 2502200px;
-    box-shadow: 0 0rem 1rem rgba(225, 225, 225, 0.5);
-    color: #ffffff;
+.contact2 {
     display: inline-block;
-    font-size: 0.875rem;
+    margin-top: 1.5rem;
+    margin-left: 1.25em;
+    vertical-align: top;
+}
+
+.button {
+    background-color:rgba(255, 250, 240, 0.125);
+    /* border-radius: 50px; */
+    /* box-shadow: 0 0rem 0.7rem rgba(255, 255, 255, 0.484); */
+    color: #ebd272;
+    display: inline-block;
+    font-size: 0.8rem;
     line-height: 1;
-    padding: 1.25em 2em;
-    text-shadow: none;
+    padding: 1em 1.25em;
+    /* text-shdadow:0 0rem 0.7rem rgb(229, 255, 0); */
     transition-property: box-shadow, transform;
     user-select: none;
     vertical-align: top;
