@@ -5,7 +5,7 @@
     height: 100%;
     width: 100%;
     z-index: 5;
-    background-color: #eff0f4;
+    background-color: #01073a;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -22,7 +22,7 @@
 .preloader .box div {
     height: 15px;
     width: 15px;
-    background-color: #38b6ff;
+    background-color: #ffb005;
     border-radius: 50%;
     animation: loaderAni 1s ease infinite;
 }
