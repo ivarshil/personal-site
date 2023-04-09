@@ -1,1 +1,1 @@
-https://ivarshil.tech
+https://ivarshil.in
